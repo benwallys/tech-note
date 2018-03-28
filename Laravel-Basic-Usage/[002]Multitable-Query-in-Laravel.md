@@ -1,4 +1,5 @@
 **users 表**
+
 uid | nick | avatar | sex
 --- | --- | --- | ---
 1 | Tomy | face001 | 1
@@ -8,6 +9,7 @@ uid | nick | avatar | sex
 5 | Young | face005 | 1
 
 **groups 表**
+
 gid | gname | uid | in_group
 --- | --- | --- | ---
 1 | group001 | 1 | 1
